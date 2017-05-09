@@ -1,0 +1,1 @@
+0 0/1 * 1/1 * ? * cd /home && /opt/conda/bin/python /home/job.py 2>&1
